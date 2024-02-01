@@ -17,4 +17,4 @@ The File Organizer Script is a Python utility designed to help you organize imag
 
 4. Navigate to the directory where the script is located.
 
-5. Run the script using the following command:
+5. Run the script
