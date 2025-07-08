@@ -1,11 +1,11 @@
-# Image-Cleaner
+# File-Cleaner
 
 ## Description
-The File Organizer Script is a Python utility designed to help you organize image files (e.g., .png, .jpg, .jpeg, .webp) from specified directories on your computer's C: and D: drives. This script identifies image files, moves them to designated folders for better file management, and can rename them as needed.
+The File Organizer Script is a Python utility designed to help you mainly organize your image files (e.g., .png, .jpg, .jpeg, .webp) from specified directories on your computer. This script identifies image files, moves them to designated folders for better file management, and can rename them as needed.
 
 ## Features
 - Automatically identifies image files in specified directories.
-- Moves image files to target folders on the C: and D: drives.
+- Moves image files to target folders specified in the program.
 - Renames files to ensure organized and coherent naming conventions.
 
 ## Usage
